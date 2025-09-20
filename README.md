@@ -11,6 +11,10 @@ Esta aplicación permite ingresar los nombres de tus amigos y realizar un sorteo
 - Elección de un nombre al azar.
 - Interfaz simple e intuitiva.
 
+# Acceso al proyecto
+
+- puedes probar el proyecto ingresando a este enlace: https://marlonvr1709.github.io/Challenge-Amigo-Secreto/
+
 # Tecnologias utilizadas
 
 - **HTML5** → estructura de la aplicación.
