@@ -13,7 +13,7 @@ Esta aplicación permite ingresar los nombres de tus amigos y realizar un sorteo
 
 # Acceso al proyecto
 
-- puedes probar el proyecto ingresando a este enlace: https://marlonvr1709.github.io/Challenge-Amigo-Secreto/
+- puedes probar el proyecto ingresando [aquí](https://marlonvr1709.github.io/Challenge-Amigo-Secreto/)
 
 # Tecnologias utilizadas
 
