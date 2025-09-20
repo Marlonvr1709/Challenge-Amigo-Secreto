@@ -13,7 +13,7 @@ Esta aplicación permite ingresar los nombres de tus amigos y realizar un sorteo
 
 # Tecnologias utilizadas
 
-- HTML5 → estructura de la aplicación.
-- **CSS3** → estilos y diseño visual
+- **HTML5** → estructura de la aplicación.
+- **CSS** → estilos y diseño visual
 - **JavaScript** → lógica de la aplicación
 
